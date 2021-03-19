@@ -5,6 +5,8 @@ A collection of data visualizations using matplotlib and seaborn to analyse the 
 
 **Dataset from Kaggle - https://www.kaggle.com/muthuj7/weather-dataset**
 
+![app demo]()
+
 ## Installation
 1. Install Pandas: `pip install pandas`
 2. Install NumPy: `pip install numpy`
