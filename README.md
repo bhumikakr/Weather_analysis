@@ -1,6 +1,6 @@
 # Weather_analysis
 
-A collection of data visualizations using matplotlib and seaborn to analyse the weather dataset of a town over 10years.
+A collection of data visualizations using matplotlib and seaborn to analyse the weather of a town over 10years.
 
 
 **Dataset from Kaggle - https://www.kaggle.com/muthuj7/weather-dataset**
