@@ -12,7 +12,7 @@ A collection of data visualizations using matplotlib and seaborn to analyse the 
 2. Install NumPy: `pip install numpy`
 3. Install Matplotlib: `pip install maltplotlib`
 4. Install Seaborn: `pip install seaborn`
-5. Install Jupyter `pip install jupyter`
+5. Install Jupyter: `pip install jupyter`
 
 **or**
  
