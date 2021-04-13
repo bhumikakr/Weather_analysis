@@ -23,4 +23,4 @@ A collection of data visualizations using matplotlib and seaborn to analyse the 
     $ jupyter notebook
 ### To run the exercises:
 1. Within the Jupyter notebook, find the `weatheranalysis.ipynb` notebook.
-2. Press the <kbd>▷</kbd> button to run each cell of the notebook.
+2. Press the <kbd>▷</kbd> button to run each cell of the notebook or Shift+Enter.
